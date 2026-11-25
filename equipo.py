@@ -16,6 +16,8 @@ delta = {("q0","a"):"q1",
 q0, F = "q0", {"q4"}
 
 # === Simulación ===
+# === Prueba de primer comentario =====
+# prueba de segundo comentario
 def run(s):
     q, steps = q0, [q0]
     for i,ch in enumerate(s):
